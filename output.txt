@@ -1,0 +1,8 @@
+symbol==> code:
+C     ==> 0
+A     ==> 11
+D     ==> 101
+B     ==> 100
+
+Size before compression: 120 bits
+Size after compression: 28 bits
